@@ -238,14 +238,6 @@ bike-sales-analytics/
 
 ---
 
-## Dashboard Preview
-
-![Bike Sales Performance](Images/overview.png)
-![Product Report](Images/product_report.png)
-![Customer Insight](Images/customer_insight.png)
-
----
-
 ## Strategic Recommendations
 
 Based on the analysis, the three moves I'd prioritise:
