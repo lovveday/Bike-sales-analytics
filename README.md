@@ -1,7 +1,7 @@
 # Bike Sales Performance Report
 **By Osekhuemen Peter-Imoisili**
 
-![Bike Sales Overview](images/overview.png)
+![Bike Sales Overview](Images/overview.png)
 
 ---
 
@@ -120,6 +120,7 @@ Key metrics:
 Designed for executives and stakeholders to quickly assess business health and growth.
 
 ---
+![Bike Sales Performance](Images/overview.png)
 
 ### Page 2 — Product (Bike) Report
 Focused on product-level performance analysis:
@@ -135,6 +136,7 @@ Focused on product-level performance analysis:
 Bikes generated the majority of the company’s profit while Clothing underperformed.
 
 ---
+![Product Report](Images/product_report.png)
 
 ### Page 3 — Customer Insight Report
 Focused on demographic segmentation analysis:
@@ -148,6 +150,7 @@ Focused on demographic segmentation analysis:
 
 Since the dataset lacked Customer IDs, the analysis was performed at the demographic segment level rather than individual customer level.
 ---
+![Customer Insight](Images/customer_insight.png)
 
 ## 💡 Key Insights
 
@@ -237,9 +240,9 @@ bike-sales-analytics/
 
 ## Dashboard Preview
 
-![Bike Sales Performance](images/overview.png)
-![Product Report](images/product_report.png)
-![Customer Insight](images/customer_insight.png)
+![Bike Sales Performance](Images/overview.png)
+![Product Report](Images/product_report.png)
+![Customer Insight](Images/customer_insight.png)
 
 ---
 
